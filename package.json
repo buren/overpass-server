@@ -1,0 +1,14 @@
+{
+  "name": "AndroNode",
+  "version": "0.0.0",
+  "description": "Interactive CV using Android and socket.io",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+    "less": "latest",
+    "merge": "^1.2.0",
+    "posix": "^2.0.0",
+    "ws": "latest"
+  },
+  "author": "phifflarn och buren"
+}
